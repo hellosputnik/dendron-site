@@ -2,7 +2,7 @@
 id: b0fe6ef7-1553-4280-bc45-a71824c2ce36
 title: Dendron
 desc: ''
-updated: 1660951930114
+updated: 1716691779018
 created: 1595952505017
 ---
 
@@ -17,7 +17,7 @@ created: 1595952505017
 ![Dendron Logo](https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/logo-256.png)
 
 Dendron is an **open-source, local-first, markdown-based, note-taking tool**. 
-Think of it as a **cache for everything that you care about** - if you've spent **more then five minutes** solving a problem, you should **never** spent any more time solving the same exact problem. 
+Think of it as a **cache for everything that you care about** - if you've spent **more than five minutes** solving a problem, you should **never** spend any more time solving the same exact problem.
 
 Dendron is a knowledge base built by and for developers and integrates natively with IDEs like [VS Code](https://code.visualstudio.com/) and [VSCodium](https://vscodium.com/).
 
@@ -29,47 +29,47 @@ Dendron is a knowledge base built by and for developers and integrates natively 
 ## How
 
 Dendron builds on top of the past five decades of programming languages and developer tooling. We apply the key lessons from software to the management of general knowledge. 
-We make managing general knowledge like managing code and your PKM like an IDE.
+We make managing general knowledge like managing code and your personal knowledge management (PKM) like an integrated development environment (IDE).
 
 ## Design Principles
 
-### Developer Centric
+### Developer-Centric
 
-Dendron aims to create a world class developer experience for managing knowledge.
+Dendron aims to create a world-class developer experience for managing knowledge.
 
 Our goal is to provide a tool with the efficiency of Vim, the extensibility of Emacs, and the approachability of VS Code.
 
 What this means:
 
-- dendron features are text centric and composables
-- dendron provides the lowest friction interface for working with your knowledge base
-- dendron optimizes for efficiency, speed, and keyboard focused ux
-- dendron comes with sane defaults and the ability to customize to your liking
-- dendron can be extended along any dimension
+- Dendron features are text-centric and composables.
+- Dendron provides the lowest friction interface for working with your knowledge base.
+- Dendron optimizes for efficiency, speed, and keyboard-focused UX.
+- Dendron comes with sane defaults and the ability to customize to your liking.
+- Dendron can be extended along any dimension.
 
 ### Gradual Structure
 
 Dendron extends markdown with structural primitives to make it easier to manage at scale and tooling on top to work with this structure.
 
-Different knowledge bases require different levels of structure - a PKM used for keeping daily journals is different than a company wide knowledge base used by thousands of developers.
+Different knowledge bases require different levels of structure—a PKM used for keeping daily journals is different than a company wide knowledge base used by thousands of developers.
 
 Dendron works with any level of structure, meaning you can take free form notes when starting out and gradually layer on more structure as your knowledge base grows more.
 
 ### Flexible and Consistent
 
-Dendron is both flexible and consistent. It provides a consistent structure for all your notes and gives you the flexibility to change that structure.
+Dendron is both flexible and consistent. It provides a consistent structure for all your notes while giving you the flexibility to change that structure.
 
-In Dendron, you can refactor notes and Dendron will make sure that your PKM is consistent throughout. This means that you have the best of both worlds: a basic structure for the organization but the flexibility to change it.
+In Dendron, you can refactor notes, and Dendron will ensure that your PKM remains consistent throughout. This means you have the best of both worlds: a basic structure for organization with the flexibility to change it.
 
 ## Features
 
 Dendron has hundreds of features. The following is a list of highlights.
 
-### It's just Plaintext
+### It's Just Plaintext
 
-- manage using git
-- use git blame to see individual edits
-- edit in anything that works on text files (eg. Vim)
+- Manage using Git.
+- Use Git blame to see individual edits.
+- Edit in anything that works on text files (e.g., Vim).
 
 <a href="https://www.loom.com/share/67b90027de974702a78753158822e96b">
     <img style="" src="https://org-dendron-public-assets.s3.amazonaws.com/images/67b90027de974702a78753158822e96b.gif">
@@ -77,9 +77,9 @@ Dendron has hundreds of features. The following is a list of highlights.
 
 ### Markdown and More
 
-- create diagrams using mermaid
-- write math using katex
-- embed notes (and parts of notes) in multiple places using note references
+- Create diagrams using Mermaid.
+- Write math using KaTeX.
+- Embed notes (and parts of notes) in multiple places using note references.
 
 <a href="https://www.loom.com/share/f7e710a3c3454e75a2938d2cbed359d9">
     <img style="" src="https://org-dendron-public-assets.s3.amazonaws.com/images/f7e710a3c3454e75a2938d2cbed359d9.gif">
@@ -87,8 +87,8 @@ Dendron has hundreds of features. The following is a list of highlights.
 
 ### Lookup
 
-- one unified way to find and create notes
-- quickly traverse and create new hierarchies
+- One unified way to find and create notes.
+- Quickly traverse and create new hierarchies.
 
 <a href="https://www.loom.com/share/29ec0fe0964648feae08387a7bb8c45f">
     <img style="" src="https://org-dendron-public-assets.s3.amazonaws.com/images/29ec0fe0964648feae08387a7bb8c45f.gif">
@@ -96,9 +96,9 @@ Dendron has hundreds of features. The following is a list of highlights.
 
 ### Schema
 
-- ensure consistency for your knowledge base
-- get autocomplete hints when creating new notes
-- automatically apply common templates to notes on creation
+- Ensure consistency for your knowledge base.
+- Get autocomplete hints when creating new notes.
+- Automatically apply common templates to notes on creation.
 
 <a href="https://www.loom.com/share/faee68959647441e86b9c4c183384ce5">
     <img style="" src="https://org-dendron-public-assets.s3.amazonaws.com/images/faee68959647441e86b9c4c183384ce5.gif">
@@ -106,9 +106,9 @@ Dendron has hundreds of features. The following is a list of highlights.
 
 ### Navigation
 
-- explore relationships using backlinks
-- navigate to notes, headers and arbitrary blocks
-- visualize your knowledge base using the graph view
+- Explore relationships using backlinks.
+- Navigate to notes, headers, and arbitrary blocks.
+- Visualize your knowledge base using the graph view.
 
 <a href="https://www.loom.com/share/2d365d965c104af2a1501d789aa2d2b1">
     <img style="" src="https://org-dendron-public-assets.s3.amazonaws.com/images/2d365d965c104af2a1501d789aa2d2b1.gif">
@@ -116,9 +116,9 @@ Dendron has hundreds of features. The following is a list of highlights.
 
 ### Refactor
 
-- restructure your knowledge base without breaking links
-- rename a single note or refactor using arbitrary regex
-- rename and move individual sections within notes
+- Restructure your knowledge base without breaking links.
+- Rename a single note or refactor using arbitrary RegEx.
+- Rename and move individual sections within notes.
 
 <a href="https://www.loom.com/share/b1a84decc53f4639b5bc60c885c56543">
     <img style="" src="https://org-dendron-public-assets.s3.amazonaws.com/images/b1a84decc53f4639b5bc60c885c56543.gif">
@@ -126,9 +126,9 @@ Dendron has hundreds of features. The following is a list of highlights.
 
 ### Vaults
 
-- mix and match knowledge using vaults, a git backed folder for your notes
-- use vaults to separate concerns, like personal notes and work notes
-- publish vaults on git to collaborate and share knowledge with others
+- Mix and match knowledge using vaults, which are Git-backed folders for your notes.
+- Use vaults to categorize concerns, such as personal notes and work notes.
+- Publish vaults on GitHub to collaborate and share knowledge with others.
 
 <a href="https://www.loom.com/share/c51e457ac2b0415ca91a8929411add64">
     <img style="" src="https://org-dendron-public-assets.s3.amazonaws.com/images/c51e457ac2b0415ca91a8929411add64.gif">
@@ -136,9 +136,11 @@ Dendron has hundreds of features. The following is a list of highlights.
 
 ### Publish
 
-- export your knowledge base as a static (nextjs) site
-- lookup locally and share globally with generated links
-- manage what you publish using fine grained permissions on a per vault, per hiearchy and per note basis
+### Publish
+
+- Export your knowledge base as a static (Next.js) site.
+- Look up locally and share globally with generated links.
+- Manage what you publish using fine-grained permissions on a per-vault, per-hierarchy, and per-note basis.
 
 <a href="https://www.loom.com/share/727537e0fd49481cac2accc2b3362fa3">
     <img style="" src="https://org-dendron-public-assets.s3.amazonaws.com/images/727537e0fd49481cac2accc2b3362fa3.gif">
@@ -146,12 +148,15 @@ Dendron has hundreds of features. The following is a list of highlights.
 
 ## Use Cases
 
-- personal knowledge management (PKM)
-- documentation
-- meeting notes
-- tasks and todos
-- blogging
-- customer relationship management
+### Use Cases
+
+- Personal knowledge management (PKM)
+- Documentation
+- Meeting notes
+- Tasks and to-dos
+- Blogging
+- Customer relationship management (CRM)
+
 
 ## Getting Started
 
